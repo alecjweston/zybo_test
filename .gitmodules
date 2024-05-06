@@ -1,0 +1,3 @@
+[submodule "zybo_vivado/_grlib"]
+	path = zybo_vivado/_grlib
+	url = https://github.com/TUT-ASI/leon3-grlib-gpl-mirror.git
